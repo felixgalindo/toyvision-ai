@@ -1,0 +1,8 @@
+opencv-python          # Real-time computer vision (OpenCV bindings for Python)
+pyttsx3                # Text-to-speech (uses espeak on Linux/macOS)
+edge-impulse-linux     # Run Edge Impulse .eim models in Python (image/audio support)
+pillow                 # Required for image handling by Edge Impulse and OpenCV
+pyaudio                # Audio input/output library for Python
+six                   # Python 2 and 3 compatibility library
+psutil                 # Required by pyttsx3 for audio backend detection
+# Optional dependencies
