@@ -2,7 +2,7 @@
 
 **Real-time Toy Recognition using Edge Impulse, Python, and a Webcam — Built to Inspire the Next Generation of Engineers**
 
-<img src="assets/demo-screenshot.png" alt="ToyVision Demo" width="600"/>
+<img src="assets/demo-screenshot.jpg" alt="ToyVision Demo" width="600"/>
 
 ## 📌 Overview
 
