@@ -23,9 +23,9 @@ It was originally built for an **elementary school career day** to spark curiosi
 
 ---
 
-## 📸 Demo Video / Screenshots
+## 📺 Demo Video
 
-*Coming soon...*  
+Watch the demo here: [YouTube Video](https://youtube.com/shorts/XW1N_mMk9E0?feature=share)
 
 ---
 
