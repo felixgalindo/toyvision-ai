@@ -111,18 +111,8 @@ Kids learn:
 
 ---
 
-## 📂 Folder Structure
+## 📄 License
 
-```
-toyvision-ai/
-├── demo.py
-├── requirements.txt
-├── setup.sh
-├── README.md
-├── modelfile_mac.eim         <-- macOS version of model
-├── modelfile_linux-armv7.eim <-- Raspberry Pi version of model
-└── assets/
-    └── demo-screenshot.png
-```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+
