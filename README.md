@@ -105,7 +105,7 @@ To add more toys in the future, you can collect and train your own dataset using
 ## ✨ Educational Impact
 
 Kids learn:
-- What AI and object detection are
+- What AI is and how it works
 - How engineers combine math, science, and code
 - That it’s possible to build cool, intelligent tools with a tiny computer
 
